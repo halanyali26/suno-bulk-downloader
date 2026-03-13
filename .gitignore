@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+env/
+venv/
+ENV/
+
+# Downloaded files
+*.zip
+*.tar.gz
+*.gz
+*.tar
+
+# Sensitive data
+*.env
+*.key
+*.pem
